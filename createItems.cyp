@@ -1,0 +1,2 @@
+LOAD CSV with headers FROM 'https://raw.githubusercontent.com/gprakash/Multi-Tier-Network/main/item.csv' AS line
+CREATE (:Item {itemKey:line.itemGovSystem + ':' + line.itemNumber +  ':' +  line.itemIndicator +  ':' + line.itemChangeLevel, itemGovSystem: line.itemGovSystem, itemNumber:line.itemNumber, itemIndicator:line.itemIndicator, itemChangeLevel: line.itemChangeLevel, itemDescription: line.itemDescription})
