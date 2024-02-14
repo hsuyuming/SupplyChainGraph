@@ -1,0 +1,12 @@
+locationId,locationType,locationERP,locationDescription,locationLatitude,locationLongitude,Address
+TOY1,PLT,SAP1,BlueSprings,34.38,-88.89,"1200 Magnolia Way, Blue Springs, MS 38828"
+TOY2,PLT,SAP1,WV Plant,38.59,-81.99,"1 Sugar Maple Ln, Buffalo, WV 25033"
+TOY3,PLT,SAP2,KY Plant,38.26,-84.53,"1001 Cherry Blossom Way, Georgetown, KY 40324"
+SUP1,SUP,,Mex Supp,22.64,-100.76,"Carretera 57 - México 1610, Valle Dorado, San Luis, S.L.P., Mexico"
+SUP2,SUP,,Ohio Supp,40.44,-81.76,"33758 Co Rd 10, Fresno, OH 43824"
+SUP3,SUP,,California Supp,36.78,-119.93,"1007 R St, Fresno, CA 93721"
+SUP4,SUP,,Seattle Supp,47.6,-122.33,"2100 Queen Anne Ave N, Seattle, WA 98109"
+SUP5,SUP,,Texas Supp,29.48,-98.79,"6701 San Jose Dr, San Antonio, TX 78214"
+SUP6,SUP,,Maine Supp,44.79,-68.77,"500 Main St, Bangor, ME 04401"
+SUP7,SUP,,Florida Supp,26.55,-81.84,"13681 Doctors Way, Fort Myers, FL 33912"
+SUP8,SUP,,N.Dakota Supp,47.80,-102.93,"10991 ND-23, Watford City, ND 58854"
