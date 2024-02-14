@@ -1,0 +1,2 @@
+LOAD CSV with headers FROM 'https://raw.githubusercontent.com/guruvittal/SupplyChainGraph/main/location.csv' AS line
+CREATE (:Location {locationKey:line.locationId + ':' + line.locationType, locationERP:line.locationERP, locationId: line.locationId, locationType: line.locationType, locationDescription: line.locationDescription, locationLatitude:line.locationLatitude, locationLongitude: line.locationLongitude, address: line.Address})
