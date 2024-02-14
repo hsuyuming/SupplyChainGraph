@@ -1,0 +1,13 @@
+parentLocationId,parentLocationType,parentItemGovSystem,parentItemNumber,parentItemIndicator,parentItemChangeLevel,childItemGovSystem,childItemNumber,childItemIndicator,childItemChangeLevel,childLocationId,childLocationType,childLocationSplitPercent,childQuantity
+TOY1,PLT,SAP1,Machine1,Finished,0,SAP1,Engine,Rough,1,SUP6,SUP,1,1
+TOY1,PLT,SAP1,Machine1,Finished,0,SAP1,Chassis,Finished,2,SUP7,SUP,1,1
+TOY1,PLT,SAP1,Machine1,Finished,0,SAP1,Transmission,SemiFinished,3,SUP8,SUP,1,1
+TOY1,PLT,SAP1,Machine1,Finished,0,SAP1,Frame,Finished,4,SUP1,SUP,1,1
+TOY2,PLT,SAP1,Machine2,Finished,0,SAP1,Engine,Rough,1,SUP2,SUP,1,1
+TOY2,PLT,SAP1,Machine2,Finished,0,SAP1,Chassis,Finished,2,SUP3,SUP,1,1
+TOY2,PLT,SAP1,Machine2,Finished,0,SAP1,Transmission,SemiFinished,3,SUP4,SUP,1,1
+TOY2,PLT,SAP1,Machine2,Finished,0,SAP1,Frame,Finished,4,SUP5,SUP,1,1
+TOY3,PLT,SAP2,Machine1,Finished,0,SAP2,Engine,Rough,1,SUP6,SUP,1,1
+TOY3,PLT,SAP2,Machine1,Finished,0,SAP2,Chassis,Finished,2,SUP7,SUP,1,1
+TOY3,PLT,SAP2,Machine1,Finished,0,SAP2,Transmission,SemiFinished,3,SUP8,SUP,1,1
+TOY3,PLT,SAP2,Machine1,Finished,0,SAP2,Frame,Finished,4,SUP2,SUP,1,1
