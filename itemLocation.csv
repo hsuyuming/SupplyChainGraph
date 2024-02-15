@@ -1,18 +1,9 @@
 locationId,locationType,itemGovSystem,itemNumber,itemIndicator,itemChangeLevel,itemLocationDescription
 TOY1,PLT,SAP1,Machine1,Finished,0,MS Machine
-SUP1,SUP,SAP1,Engine,Rough,1,Sup1 Engine
-SUP1,SUP,SAP1,Chassis,Finished,2,Sup1 Chassis
-SUP1,SUP,SAP1,Transmission,SemiFinished,3,Sup1 Txn
 SUP1,SUP,SAP1,Frame,Finished,4,Sup1 Frame
 TOY2,PLT,SAP1,Machine2,Finished,0,WV Machine
 SUP2,SUP,SAP1,Engine,Rough,1,Sup2 Engine
-SUP2,SUP,SAP1,Chassis,Finished,2,Sup2 Chassis
-SUP2,SUP,SAP1,Transmission,SemiFinished,3,Sup2 Txn
-SUP2,SUP,SAP1,Frame,Finished,4,Sup2 Frame
 TOY3,PLT,SAP2,Machine1,Finished,0,KY Machine
-SUP2,SUP,SAP2,Engine,Rough,1,Sup2 Engine
-SUP2,SUP,SAP2,Chassis,Finished,2,Sup2 Chassis
-SUP2,SUP,SAP2,Transmission,SemiFinished,3,Sup2 Txn
 SUP2,SUP,SAP2,Frame,Finished,4,Sup2 Frame
 SUP3,SUP,SAP1,Chassis,Finished,2,Sup3 Chassis
 SUP4,SUP,SAP1,Transmission,SemiFinished,3,Sup4 Txn
