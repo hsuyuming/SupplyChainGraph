@@ -8,10 +8,10 @@ SUP2,SUP,SAP2,Frame,Finished,4,Sup2 Frame
 SUP3,SUP,SAP1,Chassis,Finished,2,Sup3 Chassis
 SUP4,SUP,SAP1,Transmission,SemiFinished,3,Sup4 Txn
 SUP5,SUP,SAP1,Frame,Finished,4,Sup5 Frame
-SUP6,SUP,SAP2,Engine,Rough,1,Sup6 Engine
+SUP6,SUP,SAP2,Engine,Rough,1,Sup6 Engine SAP2
 SUP7,SUP,SAP2,Chassis,Finished,2,Sup7 Chassis
 SUP8,SUP,SAP2,Transmission,SemiFinished,3,Sup8 Txn
-SUP6,SUP,SAP1,Engine,Rough,1,Sup6 Engine
+SUP6,SUP,SAP1,Engine,Rough,1,Sup6 Engine SAP1
 SUP7,SUP,SAP1,Chassis,Finished,2,Sup7 Chassis
 SUP8,SUP,SAP1,Transmission,SemiFinished,3,Sup8 Txn
 Cummins,SUP,SAP1,Engine,Finished,1,Cummins Engine
