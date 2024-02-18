@@ -2,16 +2,16 @@ locationId,locationType,itemGovSystem,itemNumber,itemIndicator,itemChangeLevel,i
 TOY1,PLT,SAP1,Machine1,Finished,0,MS Machine
 SUP1,SUP,SAP1,Frame,Finished,4,Sup1 Frame
 TOY2,PLT,SAP1,Machine2,Finished,0,WV Machine
-SUP2,SUP,SAP1,Engine,Rough,1,Sup2 Engine
+SUP2,SUP,SAP1,Engine,Rough,1,Sup2 Engine SAP1
 TOY3,PLT,SAP2,Machine1,Finished,0,KY Machine
-SUP2,SUP,SAP2,Frame,Finished,4,Sup2 Frame
+SUP2,SUP,SAP2,Frame,Finished,4,Sup2 Frame SAP2
 SUP3,SUP,SAP1,Chassis,Finished,2,Sup3 Chassis
 SUP4,SUP,SAP1,Transmission,SemiFinished,3,Sup4 Txn
 SUP5,SUP,SAP1,Frame,Finished,4,Sup5 Frame
 SUP6,SUP,SAP2,Engine,Rough,1,Sup6 Engine SAP2
-SUP7,SUP,SAP2,Chassis,Finished,2,Sup7 Chassis
-SUP8,SUP,SAP2,Transmission,SemiFinished,3,Sup8 Txn
+SUP7,SUP,SAP2,Chassis,Finished,2,Sup7 Chassis SAP2
+SUP8,SUP,SAP2,Transmission,SemiFinished,3,Sup8 Txn SAP2
 SUP6,SUP,SAP1,Engine,Rough,1,Sup6 Engine SAP1
-SUP7,SUP,SAP1,Chassis,Finished,2,Sup7 Chassis
-SUP8,SUP,SAP1,Transmission,SemiFinished,3,Sup8 Txn
+SUP7,SUP,SAP1,Chassis,Finished,2,Sup7 Chassis SAP1
+SUP8,SUP,SAP1,Transmission,SemiFinished,3,Sup8 Txn SAP1
 Cummins,SUP,SAP1,Engine,Finished,1,Cummins Engine
