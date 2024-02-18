@@ -1,5 +1,5 @@
 locationId,locationType,locationERP,locationDescription,locationLatitude,locationLongitude,Address
-TOY1,PLT,SAP1,BlueSprings,34.38,-88.89,"1200 Magnolia Way, Blue Springs, MS 38828"
+TOY1,PLT,SAP1,BlueSprings MS,34.38,-88.89,"1200 Magnolia Way, Blue Springs, MS 38828"
 TOY2,PLT,SAP1,WV Plant,38.59,-81.99,"1 Sugar Maple Ln, Buffalo, WV 25033"
 TOY3,PLT,SAP2,KY Plant,38.26,-84.53,"1001 Cherry Blossom Way, Georgetown, KY 40324"
 SUP1,SUP,,Mex Supp,22.64,-100.76,"Carretera 57 - México 1610, Valle Dorado, San Luis, S.L.P., Mexico"
