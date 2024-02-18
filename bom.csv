@@ -11,4 +11,4 @@ TOY3,PLT,SAP2,Machine1,Finished,0,SAP2,Engine,Rough,1,SUP6,SUP,1,1
 TOY3,PLT,SAP2,Machine1,Finished,0,SAP2,Chassis,Finished,2,SUP7,SUP,1,1
 TOY3,PLT,SAP2,Machine1,Finished,0,SAP2,Transmission,SemiFinished,3,SUP8,SUP,1,1
 TOY3,PLT,SAP2,Machine1,Finished,0,SAP2,Frame,Finished,4,SUP2,SUP,1,1
-SUP6,SUP,SAP1,Engine,Rough,1,SAP1,Engine,Rough,1,Cummins,SUP,1,1
+SUP6,SUP,SAP1,Engine,Rough,1,SAP1,Engine,Rough,1,Cummins,SUP,1,2
